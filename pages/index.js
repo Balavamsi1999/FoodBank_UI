@@ -26,7 +26,7 @@ export default function Home() {
     <>
      <Row justify = "center" style = {{padding: "1%"}}>
         <Tag icon={<SyncOutlined spin />} color="purple">
-           You will be redirected shortly.
+           You will be redirected shortly, make sure you have Metamask Chrome extension installed.
         </Tag>
      </Row>
 
